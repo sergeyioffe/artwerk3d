@@ -1,4 +1,4 @@
-# Artwerk3D
+# 3D Design Inspiration
   
 > Master resources for digital designers 3D modellers (in progress...)
 
